@@ -1,0 +1,1 @@
+CoxAutomotive\bin\Release\CoxAutomotive.exe "It was many and many a year ago" "Copyright,Microsoft:Corporation" ".p[opk...." "" ">" "      "
